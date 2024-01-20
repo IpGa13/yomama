@@ -1,5 +1,8 @@
 var output = "Yo Mama so.. "
 
+
+//feel free to expand and pullrequest i am done.
+
 var adjective = [
     "stupid,",
     "fat,",
